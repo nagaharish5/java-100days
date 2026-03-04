@@ -1,0 +1,44 @@
+ popular Java web applications
+
+**CMS & Content Management**
+- **Alfresco** – Enterprise content & document management
+- **OpenCMS** – Web content management system
+- **Magnolia CMS** – Flexible CMS with a clean UI
+
+**Project Management & Collaboration**
+- **OpenProject** – Full-featured project management (tasks, Gantt, wikis)
+- **Jira (Data Center trial)** – Issue & project tracking by Atlassian
+- **Confluence (trial)** – Team wiki & knowledge base by Atlassian
+- **Redmine** (Ruby, but pairs well with Java backends)
+
+**E-Commerce**
+- **Broadleaf Commerce** – Modular, Spring-based e-commerce framework
+- **Apache OFBiz** – ERP + e-commerce suite
+
+**IT Service Management**
+- **MantisBT** – Bug tracking system
+- **GLPI** – IT asset & helpdesk management
+
+**Business & ERP**
+- **Odoo (Java integrations)** – Business suite (HR, CRM, inventory)
+- **ADempiere** – Full ERP/CRM built in Java
+- **iDempiere** – OSGi-based ERP (fork of Compiere)
+
+**Monitoring & Observability**
+- **Grafana** (with Java backends) – Metrics dashboards
+- **Zipkin** – Distributed tracing system
+- **Prometheus + Micrometer** – Metrics collection for Java apps
+
+**Learning / Demo Apps**
+- **Spring PetClinic** – Classic Spring Boot demo app
+- **JHipster-generated apps** – Quickly scaffold full-stack Java web apps
+- **Liferay Portal** – Enterprise web portal platform
+
+---
+
+**Quick start recommendation** if you just want something running fast:
+1. **Spring PetClinic** – clone & run in minutes with `./mvnw spring-boot:run`
+2. **H2 Console** – comes embedded with Spring Boot for instant DB UI
+3. **Jenkins** – just download the `.war` and run with `java -jar jenkins.war`
+
+Want help setting up any of these locally?
